@@ -1,3 +1,9 @@
+---
+title: "Mini Game Console"
+author: "@Hriday Krishna"
+description: "Describe your project in a short sentence!"
+created_at: "2026-07-10"
+---
 # Mini-Game-Console
 ## Day-1: tested the circuit on wokwi and made schematics [13th Jul,2026; 7:01 pm] [J-1]
 - Tested and troubleshooted the circuit and logic on wokwi. due to a breadboard error i made,I got confused lol
@@ -10,3 +16,7 @@ https://lapse.hackclub.com/timelapse/9d2t55453Uiu
 https://lapse.hackclub.com/timelapse/nDKRG0l3SooJ
 https://lapse.hackclub.com/timelapse/hTYw8-52Bi8z
 https://lapse.hackclub.com/timelapse/-t1wMTPBpjFD
+Time taken: 191 minutes : 3 hr 11 min
+
+## Day-2: Finished working on the pcb
+- Downloaded and imported the footprints of the components i am using
