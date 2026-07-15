@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6*%
+%TF.CreationDate,2026-07-15T23:24:01+05:30*%
+%TF.ProjectId,HandheldGamingConsole,48616e64-6865-46c6-9447-616d696e6743,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.6) date 2026-07-15 23:24:01*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X71600000Y-25200000D02*
+X171000000Y-25200000D01*
+X171000000Y-102400000D01*
+X71600000Y-102400000D01*
+X71600000Y-25200000D01*
+M02*
