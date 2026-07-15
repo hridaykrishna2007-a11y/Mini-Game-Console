@@ -1,7 +1,7 @@
 ---
 title: "Mini Game Console"
 author: "@Hriday Krishna"
-description: "Describe your project in a short sentence!"
+description: "This is a small handheld game console u can use to play some games! it runs on an arduino nano. it has 3 buttons and a 128x64 display!"
 created_at: "2026-07-10"
 ---
 # Mini-Game-Console
