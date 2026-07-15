@@ -53,10 +53,19 @@ Timelapses:
 Total Time taken: 134 min; 2 hr 14 min
 total time at hackatime atp: 7 hr 40 min 
 
-## Journal-4: Art, Pcb final Iterations, Documentation [15th Jul, 2026; 4:35 pm]
+## Journal-4: Art, Pcb final Iterations, Documentation [15th Jul, 2026; 9:15 pm]
 - completed the art. thought that id use some realizm in the coulour of the laser projectiles used in the deathstar and the X-wing but it didnt look good so i let it be blue and red.
 ![alt text](image-8.png)
 - took screenshots for progress and documentatioan
 ![alt text](image-9.png)
 - added some silkscreen art on the pcb cuz i thought it looked a little boring.
 ![alt text](image-10.png)
+- used the interference tool to check for any interference and to see id everything fits well together.
+- added my name on the case.
+
+Timelapses: 
+12. https://lapse.hackclub.com/timelapse/1AsCNXXIjcNe
+13. https://lapse.hackclub.com/timelapse/r8QRYEGJ9JFt
+Tima taken: 55 min
+total time at hackatime atp: 9hr 24s
+
