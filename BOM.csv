@@ -1,0 +1,10 @@
+PRODUCT,DESCRIPTION,QUANTITY ,UNIT PRICE,TOTAL COST (INCL. SHIPPING),LINK
+,,,,,
+PCB,console pcb,5 [moq],315,1861,
+Arduino nano,Arduino nano microcontroller,1,200,200,https://robocraze.com/products/nano-development-board-compatible-with-arduino
+Cable,mini usb cable for the arduino nano,1,39,39,https://robocraze.com/products/mini-usb-cable-0-5-metre-color-may-vary
+oled 128x64,SSD1306 I2C OLED,1,162,162,https://robocraze.com/products/0-96in-oled-display-module-4pin
+buzzer,buzzer,1,14,14,https://robocraze.com/products/3-volts-buzzer-small
+mechanical switches,swicthes for the keys of the controller,10 (moq),180,180,https://stackskb.com/store/click-inc-hp-switch-pack-of-10-pre-order/
+keycaps,keycaps,4,,,Self Sourced (3D-Printed)
+case,case of the pcb,1,,,Self Sourced (3D-Printed)

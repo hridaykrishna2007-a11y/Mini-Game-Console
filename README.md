@@ -26,6 +26,7 @@ Easy Peasy.
 - Order the parts from the BOM and get the case and the keycaps 3d printed and ready.
 - Solder the parts on the pcb and keep the orientations in mind (or you are cooked).
 - Superglue the case together. (This project is designed keeping portablity and light weight in mind. Hence no screws as it will increase the weight)
+- Purchase or 3d print some keycaps (here's one: https://www.printables.com/model/118708-simple-cherry-mx-keycap)
 - upload your code (or the sample one in this same repo) using usb cable and arduino ide.
 - connec to a power source like a powerbank.
 - PLAYYYYYYYY!!!!!!
