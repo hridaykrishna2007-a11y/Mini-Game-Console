@@ -29,3 +29,6 @@ Easy Peasy.
 - upload your code (or the sample one in this same repo) using usb cable and arduino ide.
 - connec to a power source like a powerbank.
 - PLAYYYYYYYY!!!!!!
+
+https://github.com/user-attachments/assets/bd86371d-4319-4f34-b711-88d048939bdb
+
