@@ -29,4 +29,3 @@ Easy Peasy.
 - upload your code (or the sample one in this same repo) using usb cable and arduino ide.
 - connec to a power source like a powerbank.
 - PLAYYYYYYYY!!!!!!
-<video controls src="ASSETS/assembly.mp4" title="Title"></video>
