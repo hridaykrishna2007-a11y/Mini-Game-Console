@@ -69,3 +69,13 @@ Timelapses:
 Tima taken: 55 min
 total time at hackatime atp: 9hr 24s
 
+## Journal-5: file uploads and README.md 
+- finally got my repo filled with all the files  
+![alt text](JournalImages/image-11.png)
+- i faced some issues. images on readme werent visible. aparantly i used '\' instead of '/' in the file names loll.  
+
+Timelapses:  
+14. https://lapse.hackclub.com/timelapse/k9l5WchVmxKt
+15. https://lapse.hackclub.com/timelapse/VjFZTxw4sLwA
+Time: 50 mins
+total time at hackatime atp: 11 hr 22 min
